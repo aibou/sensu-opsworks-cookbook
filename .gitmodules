@@ -1,0 +1,3 @@
+[submodule "sensu"]
+	path = sensu
+	url = git@github.com:sensu/sensu-chef.git
